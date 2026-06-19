@@ -1,2 +1,2 @@
 # cryptograph-project
-encrypt and decrypt user inputed messages
+Encrypt and decrypt user-input messages with an encryption key file.
